@@ -3,7 +3,7 @@ package _8_LinkedList;
 public class L2 {
     // Make Node static so it can be used with static head and tail
     static class Node {
-        int data;
+        int data; 
         Node next;
         public Node(int data) {
             this.data = data;
